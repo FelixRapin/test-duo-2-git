@@ -2,6 +2,7 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"oTest","order":1,"path":"objects/oTest/oTest.yy",},
+    {"name":"Ocaca","order":7,"path":"sprites/Ocaca/Ocaca.yy",},
     {"name":"Sfelix","order":5,"path":"sprites/Sfelix/Sfelix.yy",},
     {"name":"sPipi","order":6,"path":"sprites/sPipi/sPipi.yy",},
     {"name":"sTest","order":2,"path":"sprites/sTest/sTest.yy",},

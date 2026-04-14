@@ -21,6 +21,7 @@
   "resources":[
     {"id":{"name":"oTest","path":"objects/oTest/oTest.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Ocaca","path":"sprites/Ocaca/Ocaca.yy",},},
     {"id":{"name":"Sfelix","path":"sprites/Sfelix/Sfelix.yy",},},
     {"id":{"name":"sPipi","path":"sprites/sPipi/sPipi.yy",},},
     {"id":{"name":"sTest","path":"sprites/sTest/sTest.yy",},},
