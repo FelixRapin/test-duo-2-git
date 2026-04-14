@@ -22,6 +22,7 @@
     {"id":{"name":"oTest","path":"objects/oTest/oTest.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Sfelix","path":"sprites/Sfelix/Sfelix.yy",},},
+    {"id":{"name":"sPipi","path":"sprites/sPipi/sPipi.yy",},},
     {"id":{"name":"sTest","path":"sprites/sTest/sTest.yy",},},
     {"id":{"name":"sTest2","path":"sprites/sTest2/sTest2.yy",},},
     {"id":{"name":"sTest3","path":"sprites/sTest3/sTest3.yy",},},
